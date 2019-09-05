@@ -44,7 +44,7 @@ if ((num1 === 50) || (num2 === 50) || (num1 + num2 === 50)) {
 }
 
 //JS program check if a given positive number is a multiple of 3 or a multiple of 7
-let posNum1 = 50;
+let posNum1 = 81;
 if (posNum1 % 3 === 0) {
     console.log(posNum1 + " is a multiple of 3");
 }
