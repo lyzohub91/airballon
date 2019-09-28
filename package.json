@@ -3,8 +3,15 @@
     "version": "1.0.0",
     "description": "demo",
     "author": "Andrii Lyzogub",
-    "license": "ISC",    
+    "license": "ISC",
     "dependencies": {},
-    "devDependencies": {},
+    "devDependencies": {
+        "chance": "^1.1.0",
+        "lodash": "^4.17.15",
+        "math-random": "^1.0.4",
+        "mz": "^2.7.0",
+        "random-email": "^1.0.3",
+        "randomstring": "^1.1.5"
+    },
     "scripts": {}
-  }
+}

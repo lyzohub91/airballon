@@ -1,0 +1,2 @@
+{"name":"MEKGD","surname":"WT49ORT","rate":78}
+{"name":"MEKGD","surname":"WT49ORT","rate":78,"age":6,"email":"jovged@lebomi.hair"}
